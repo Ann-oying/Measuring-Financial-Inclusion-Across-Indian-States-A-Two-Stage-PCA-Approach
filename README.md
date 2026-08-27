@@ -46,8 +46,8 @@ Financial inclusion is measured across three dimensions: **Penetration, Availabi
 
 | Dimension | Indicators |
 |---|---|
-| **Penetration** | Deposit Accounts, Credit Accounts |
-| **Availability** | Scheduled Commercial Bank Offices, Rural Bank Offices, Bank Employees/Deposit Accounts, Insurance Offices, Internet Subscribers |
+| **Penetration** | Deposit Accounts per lakh pop, Credit Accounts per lakh pop |
+| **Availability** | Scheduled Commercial Bank Offices per lakh pop, Rural Bank Offices per lakh pop, Bank Employees/Deposit Accounts, Insurance Offices per lakh pop, Internet Subscribers per lakh pop |
 | **Usage** | Deposits per Capita, Credit Outstanding per Capita, Insurance Density |
 
 The indicators were compiled from officially published secondary sources including:
